@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
     private int currentCustomPercent; // tip % set with the Seek bar
     private EditText tip10EditText; // display 10% tip
     // this is test
+    // second test
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
