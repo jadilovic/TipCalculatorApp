@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     private double currentBillTotal; // bill amount entered by the user
     private int currentCustomPercent; // tip % set with the Seek bar
     private EditText tip10EditText; // display 10% tip
-
+    // this is test
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
